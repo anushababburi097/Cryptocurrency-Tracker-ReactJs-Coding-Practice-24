@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  font-family: 'Roboto';
+  min-height: 100vh;
+}
+.cryptocurrencies-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
